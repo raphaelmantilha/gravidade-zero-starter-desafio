@@ -1,0 +1,100 @@
+{"level":30,"time":"2021-10-08T17:54:14.799Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Listening on 59171"}
+{"level":30,"time":"2021-10-08T17:54:16.334Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-08T17:54:16.353Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active context"}
+{"level":30,"time":"2021-10-08T17:54:16.607Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-08T17:54:16.607Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active page"}
+{"level":30,"time":"2021-10-08T17:54:19.504Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-08T17:54:19.703Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: css=.select select"}
+{"level":30,"time":"2021-10-08T17:54:19.752Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-08T17:54:19.803Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: id=valor"}
+{"level":30,"time":"2021-10-08T17:54:19.855Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: css=button >> text= Enviar PIX"}
+{"level":30,"time":"2021-10-08T17:54:19.983Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:20.013Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=a[class=navbar-item] containing Olá Papito, seu saldo é R$ 900"}
+{"level":30,"time":"2021-10-08T17:54:20.030Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:20.062Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element xpath=//span[contains(text(),\"08/10/2021\")]/../.. containing 920-788-3727\tEnvio de PIX\tNubank - PIX para 1234\t08/10/2021\tR$ -100 "}
+{"level":30,"time":"2021-10-08T17:54:20.066Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:20.127Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element xpath=//span[contains(text(),\"08/10/2021\")]/../.. containing 920-788-3727\tEnvio de PIX\tNubank - PIX para 1234\t08/10/2021\tR$ -100 "}
+{"level":30,"time":"2021-10-08T17:54:20.137Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:20.202Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element xpath=//span[contains(text(),\"08/10/2021\")]/../.. containing 920-788-3727\tEnvio de PIX\tNubank - PIX para 1234\t08/10/2021\tR$ -100 "}
+{"level":30,"time":"2021-10-08T17:54:20.510Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active context"}
+{"level":30,"time":"2021-10-08T17:54:20.511Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-08T17:54:20.511Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active page"}
+{"level":30,"time":"2021-10-08T17:54:20.538Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active context"}
+{"level":30,"time":"2021-10-08T17:54:20.539Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-08T17:54:20.539Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active page"}
+{"level":30,"time":"2021-10-08T17:54:21.350Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-08T17:54:21.364Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active context"}
+{"level":30,"time":"2021-10-08T17:54:21.668Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-08T17:54:21.668Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active page"}
+{"level":30,"time":"2021-10-08T17:54:22.820Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-08T17:54:23.269Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: css=.select select"}
+{"level":30,"time":"2021-10-08T17:54:23.442Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-08T17:54:23.488Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: id=valor"}
+{"level":30,"time":"2021-10-08T17:54:23.527Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: css=button >> text= Enviar PIX"}
+{"level":30,"time":"2021-10-08T17:54:23.611Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:23.633Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:23.987Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active context"}
+{"level":30,"time":"2021-10-08T17:54:23.987Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-08T17:54:23.987Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active page"}
+{"level":30,"time":"2021-10-08T17:54:24.014Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active context"}
+{"level":30,"time":"2021-10-08T17:54:24.014Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-08T17:54:24.014Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active page"}
+{"level":30,"time":"2021-10-08T17:54:24.877Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-08T17:54:24.892Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active context"}
+{"level":30,"time":"2021-10-08T17:54:25.168Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-08T17:54:25.168Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active page"}
+{"level":30,"time":"2021-10-08T17:54:26.069Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: text=Fazer PIX"}
+{"level":30,"time":"2021-10-08T17:54:26.374Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: css=.select select"}
+{"level":30,"time":"2021-10-08T17:54:26.435Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-08T17:54:26.519Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: id=valor"}
+{"level":30,"time":"2021-10-08T17:54:26.582Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Page|Frame|Element resolved elementSelector: css=button >> text= Enviar PIX"}
+{"level":30,"time":"2021-10-08T17:54:26.724Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:26.744Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:26.770Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:26.818Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:26.845Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:26.889Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:26.923Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:26.970Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:26.990Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:27.036Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:27.057Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:27.103Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:27.125Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:27.168Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:27.190Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:27.233Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:27.267Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:27.312Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:27.340Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:27.387Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:27.406Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:27.450Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:27.472Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:27.524Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:27.539Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:27.589Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:27.611Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:27.655Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:27.676Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:27.722Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:27.746Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:27.791Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-08T17:54:28.271Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active context"}
+{"level":30,"time":"2021-10-08T17:54:28.271Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-08T17:54:28.271Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active page"}
+{"level":30,"time":"2021-10-08T17:54:28.288Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active context"}
+{"level":30,"time":"2021-10-08T17:54:28.288Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-08T17:54:28.288Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active page"}
+{"level":30,"time":"2021-10-08T17:54:29.167Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-08T17:54:29.188Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active context"}
+{"level":30,"time":"2021-10-08T17:54:29.465Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-08T17:54:29.465Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active page"}
+{"level":30,"time":"2021-10-08T17:54:30.525Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-08T17:54:30.612Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Retrieved text for element css=a[class=navbar-item] containing Olá Papito, seu saldo é R$ 1000"}
+{"level":30,"time":"2021-10-08T17:54:31.097Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active context"}
+{"level":30,"time":"2021-10-08T17:54:31.097Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-08T17:54:31.097Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active page"}
+{"level":30,"time":"2021-10-08T17:54:31.127Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active context"}
+{"level":30,"time":"2021-10-08T17:54:31.128Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-08T17:54:31.128Z","pid":11216,"hostname":"LAPTOP-3FKH0DMD","msg":"Changed active page"}
